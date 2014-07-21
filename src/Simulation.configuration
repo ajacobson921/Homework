@@ -1,0 +1,10 @@
+dimensionX: 20
+dimensionY: 20
+numberOfMobileObjects: 1
+durationOfSimulation: 10
+WarningGeotask: 1, 3
+WarningGeotask: 7, 9
+CounterGeotask: 6, 8
+WarningGeotask: 9, 12
+PopulationMonitoringGeotask: 7, 3
+PopulationMonitoringGeotask: 20, 20
